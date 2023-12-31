@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	font-soze:40px;
+	font-weight:900;
+}
+.holder span{
+	width:30px;
+	padding:25px;
+	
+}
+.item-box3{
+	background-color:green;
+}
+.item-box1{
+	background-color:red;
+}
+.item-box2{
+	background-color:blue;
+}
